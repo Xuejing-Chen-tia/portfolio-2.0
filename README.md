@@ -16,7 +16,7 @@ Hello, everyone! My name is Tiana 🌷. I'm a third-year University student who 
 
 **Measures**:  
 - **Psychological Distress (_PSYDIST2_)**: Psychological distress was assessed using a reliable six-item scale designed to measure the severity of common emotional and cognitive symptoms, including nervousness, hopelessness, restlessness, and feelings of worthlessness. Participants were asked to rate how often they experienced these feelings over the past year. Responses were averaged to create a composite score, with higher scores reflecting greater distress. This scale showed strong reliability with a Cronbach’s alpha of 0.85.  
-- **Stressful Life Events (_SLET2_)**: Stress was assessed using a checklist of 13 life events (e.g., "”). Each event was coded as "1" if experienced in the past year and "0" otherwise. The total number of events was summed for each participant to indicate their overall stress level.  
+- **Stressful Life Events (_SLET2_)**: Stress was assessed using a checklist of 13 life events (e.g., "In the past year, did you experience a breakup of a romantic relationship you were having?"). Each event was coded as "1" if experienced in the past year and "0" otherwise. The total number of events was summed for each participant to indicate their overall stress level.  
 - **Demographics**:  
 _Gender_: Participants identified as either male or female.  
 _Ethnic group_: Participants were grouped into two categories: Asian or Non-Asian.
