@@ -1,74 +1,61 @@
----
-permalink: /
-title: "Colin's Website"
----
+# About me 
+Hello, everyone! My name is Tiana 🌷. I'm a third-year University student who majors in Psychology and Economics at the University of Toronto. 🦫
 
-# About me 👋 
-Hi everyone, my name is Colin 😊 I'm a second-year PhD student in the social and personality psychology program at the University of Toronto 🍁
+## Research project
+**Female adolescents feel more distress from stressful events than male adolescents do**
+## Introduction 
+- The impact of stress on non-specific psychological distress, a construct involving cognitive, emotional, and behavioral symptoms common across various mental disorders, varies by demographic factors like sex and ethnic groups. While non-specific psychological distress is commonly measured using validated tools such as the K6 and K10 scales (Kessler et al., 2002).
+- Yet, prior studies have primarily focused on adults or populations in specific geographic locations (Matud et al., 2000).
+  
+- Therefore, this research brings out the **Research Question**: Do stressful life events in the past year influence a male or a female adolescent’s non-specific psychological distress?
+- **Exploratory Question**: Do stressful life events in the past year influence an Asian or a non-Asian adolescent’s non-specific psychological distress?
 
-## Research Interests
-- Prejudice and Discrimination 😒
-- Diversity and Representation 🧑🏿‍🤝‍🧑🏻🌎
-- LGBTQ+ 🌈
-- Mental Well-being 😄
-- Measurement 📏
+## Methods
+**Participants**: 
+- This study analyzed data from **732** adolescents who participated in the Research on Adaptive Interests, Skills, and Environments (RAISE) study, a longitudinal research project conducted in the U.S. from 2014 to 2019. The data for this study exclusively comes from **Wave 2** (2016–2017), during which surveys were administered online to nearly all participants (Hoyle, 2024).
 
-## Education
-**Ph.D.** Social-Personality Psychology  
-University of Toronto *May 2027 (Expected)*
+**Measures**:  
+- **Psychological Distress (_PSYDIST2_)**: Psychological distress was measured using a reliable six-item scale. Participants rated how often they experienced feelings such as nervousness or hopelessness in the past year. Responses were averaged to create a composite score, with higher scores reflecting greater distress. This scale showed strong reliability with a Cronbach’s alpha of 0.85.  
+- **Stressful Life Events (_SLET2_)**: Stress was assessed using a checklist of 13 life events (e.g., family conflicts, academic challenges). Each event was coded as "1" if experienced in the past year and "0" otherwise. The total number of events was summed for each participant to indicate their overall stress level.  
+- **Demographics**:  
+_Gender_: Participants identified as either male or female.  
+_Ethnic group_: Participants were grouped into two categories: Asian or Non-Asian.
 
-**M.A.** General-Experimental Psychology  
-Wake Forest University *May 2023*			        		
-
-**B.A.** Psychology (Honors)  
-University at Buffalo, SUNY *May 2020*
-
-
-## Projects in Preparation
-### What Types of Representation Do Marginalized Group Members Value More?
-
-- We found that when marginalized group members talk about representation, they either refer to someone who shares their identity and/or someone who shares their values
-- So we developed a scale to measure identity-based and values-based representation and validated it in a workplace context
-- Both types of representation are correlated with well-being and performance outcomes
-![rep](/assets/img/rep.png)
-- Interestingly, people generally see more colleagues and leaders who embody their core values than the ones who share their identity
-- However, only those who identify as stigmatized report seeing less identity-based representation, whereas non-stigmatized people see equal levels of identity and values-based representation
-![rep2](/assets/img/rep2.png)
+**Analysis**:
+A factor analysis was conducted to confirm the construct of the psychological distress scale, I examined whether the six items consistently measured the same idea. The results showed that all six items loaded onto a single factor, with loadings ranging from 0.504 to 0.854, indicating that it is a reliable measure of psychological distress. Each item's contribution was assessed, showing strong alignment with the overall construct.
 
 
-### What Psychological Barriers Prevent LGB People from Coming Out?
+## Results  
+![gender](/assets/male:female.png)  
+**_PSYDIST2_**: the mean of the non-specific Psychological distress scale, measured by six items (Hoyle, 2024).  
+**_SLET2_**: the number of stressful life events experienced in the past year, a summed index of 13 binary items (Hoyle, 2024).  
+**_DEMGEN2_**: Gender [0 = Male, 1 = Female]    
+**_DEMRA2013_**: Ethnic groups [0 = Non-Asian, 1 = Asian]
 
-- We used a national probability longitudinal dataset to explore the relationship between minority stressors (i.e., unique stressors experienced by sexual minorities) and coming out to a straight friend
-- Suprisingly, the more everyday discrimination one experienced in the previous year, the more they likely they are going to come out in the next year
-- This finding still holds after taking into account other minority stressors, demographics, perceived sexual orientation visibility, and disclosure history
+- **_Finding 1_**: The interaction effect of stressful life events on non-specific psychological distress for both male and female adolescents is statistically significant (***p<.001).
+- **_Finding 2_**: Moderation Analysis, sex significantly moderates the stress-distress relationship (***p < 0.001):
+- **_Finding 3_**: Female adolescents experience a stronger impact of stressful events on psychological distress compared to male adolescents, as indicated by the steeper slope for females.  
+![ethnicity](/assets/ethnicgroup.png)  
+- **_Finding 4_**: No significant interaction effect was found for ethnicity (Asian vs. Non-Asian) on the relationship between stressful life events and psychological distress.
 
-![lgb](/assets/img/lgb.png)
+# Impact
+This research sheds light on how stressful life events differentially affect psychological distress in adolescents based on gender. The findings are critical for understanding mental health disparities and tailoring interventions to address these differences. Specifically, the results suggest that:  
+**Who it Benefits**:  
+- _Educators and School Counselors_: These findings can inform the development of gender-sensitive mental health programs in schools to better support female students who are disproportionately impacted by stress.
+Parents and Guardians: Understanding that females may be more vulnerable to stress can help families implement better coping strategies and support systems at home.  
+- _Mental Health Professionals_: Therapists and counselors can use these insights to design personalized stress management interventions, particularly for adolescent females.  
 
-### Does Ingroup Prejudice Hurt Asian Americans More?
+**Application in Real-World Settings**:  
+- The study's results can guide schools in prioritizing resources for mental health programs, such as workshops on stress management tailored to gender-specific needs.
+Community organizations focused on adolescent well-being can use these findings to advocate for policy changes, such as increased funding for female-focused mental health initiatives.
+ 
+**Significance and Precision**:  
+- This research emphasizes the importance of addressing gender disparities in mental health without overgeneralizing the findings to other populations or contexts. While no significant moderating effect of ethnicity was found, future work should explore other demographic and contextual variables, such as socioeconomic status, to gain a more comprehensive understanding.
 
-- We examined how Asian Americans feel after experiencing ingroup prejudice (i.e., prejudice that comes from ingroup members)
-- Results showed that Asian Americans who were rejected by Asian peers felt less positive towards Asians compared to their baseline attitudes, whereas experiencing prejudice from White peers did not change participants’ attitudes towards Whites
-- Expectation and prejudice attribution are not related to this difference
-
-![Ingroup](/assets/img/ingroup.png)
-
-### Do People Hold More Prejudice Towards Bisexual Singles?
-
-- We asked people to rate single people with different sexual orientation backgrounds and found that people's assumptions about bisexual single people are more negative than gay/lesbian single people 
-- This prejudice primarily comes from non-single people 
-- The belief that bisexual people have more choices of potential dating partners partially explains the rating
-
-![Bi](/assets/img/bisingle.png)
 
 
 ## Publications
-1.	**Li, K. C.**, van Berlekom, E., Atwood, S., & Wang, Y.-C. (2024). Towards inclusive and equitable LGBTIQ+ measurement: Assessing gender and sexual orientation measures and scale validity in national surveys across 21 countries. *Journal of Social Issues*, 1-27. https://doi.org/10.1111/josi.12635 
-
-2.	**Li, K. C.**, Cipollina, R., & Sanchez, D. T. (2023). Perceived COVID-induced racism and contextual predictors of fear and psychological distress among Black men. *Social and Personality Psychology Compass*, e12857. https://doi.org/10.1111/spc3.12857
-
-## Teaching
-- Social Psychology Lab
-- Experimental Research & Statistics
-- Correlational Research & Statistics
-- Intergroup Relations
-
+- Mewton, L., Kessler, R. C., Slade, T., Hobbs, M. J., Brownhill, L., Birrell, L., Tonks, Z., Teesson, M., Newton, N., Chapman, C., Allsop, S., Hides, L., McBride, N., Andrews, G., & Ben-Porath, Y. S. (2016). The Psychometric Properties of the Kessler Psychological Distress Scale (K6) in a General Population Sample of Adolescents. Psychological Assessment, 28(10), 1232–1242. https://doi.org/10.1037/pas0000239  
+- Matud, M. P., Bethencourt, J. M., & Ibáñez, I. (2014). Gender differences in psychological distress in Spain. International Journal of Social Psychiatry, 61(6), 560–568. https://doi.org/10.1177/0020764014564801  
+**Original Study dataset:**  
+- Hoyle, Rick H. Research on Adaptive Interests, Skills, and Environments (RAISE) Study, North Carolina, 2015-2019. Inter-university Consortium for Political and Social Research [distributor], 2024-09-09. https://doi.org/10.3886/ICPSR36850.v3  
