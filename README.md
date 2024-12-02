@@ -32,8 +32,8 @@ A factor analysis was conducted to confirm the construct of the psychological di
 **_DEMGEN2_**: Gender [0 = Male, 1 = Female]    
 **_DEMRA2013_**: Ethnic groups [0 = Non-Asian, 1 = Asian]
 
-- **_Finding 1_**: The interaction effect of stressful life events on non-specific psychological distress for both male and female adolescents is statistically significant (***p<.001).
-- **_Finding 2_**: Moderation Analysis, sex significantly moderates the stress-distress relationship (***p < 0.001):
+- **_Finding 1_**: The interaction effect of stressful life events on non-specific psychological distress for both male and female adolescents is statistically significant.  
+- **_Finding 2_**: Moderation Analysis, sex significantly moderates the stress-distress relationship.  
 - **_Finding 3_**: Female adolescents experience a stronger impact of stressful events on psychological distress compared to male adolescents, as indicated by the steeper slope for females.  
 ![ethnicity](/assets/img/ethnicgroup.png)  
 - **_Finding 4_**: No significant interaction effect was found for ethnicity (Asian vs. Non-Asian) on the relationship between stressful life events and psychological distress.
