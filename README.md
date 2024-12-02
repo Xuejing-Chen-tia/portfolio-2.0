@@ -26,7 +26,7 @@ A factor analysis was conducted to confirm the construct of the psychological di
 
 
 ## Results  
-![gender](/assets/male:female.png)  
+![gender](/assets/img/male:female.png)  
 **_PSYDIST2_**: the mean of the non-specific Psychological distress scale, measured by six items (Hoyle, 2024).  
 **_SLET2_**: the number of stressful life events experienced in the past year, a summed index of 13 binary items (Hoyle, 2024).  
 **_DEMGEN2_**: Gender [0 = Male, 1 = Female]    
@@ -35,7 +35,7 @@ A factor analysis was conducted to confirm the construct of the psychological di
 - **_Finding 1_**: The interaction effect of stressful life events on non-specific psychological distress for both male and female adolescents is statistically significant (***p<.001).
 - **_Finding 2_**: Moderation Analysis, sex significantly moderates the stress-distress relationship (***p < 0.001):
 - **_Finding 3_**: Female adolescents experience a stronger impact of stressful events on psychological distress compared to male adolescents, as indicated by the steeper slope for females.  
-![ethnicity](/assets/ethnicgroup.png)  
+![ethnicity](/assets/img/ethnicgroup.png)  
 - **_Finding 4_**: No significant interaction effect was found for ethnicity (Asian vs. Non-Asian) on the relationship between stressful life events and psychological distress.
 
 # Impact
