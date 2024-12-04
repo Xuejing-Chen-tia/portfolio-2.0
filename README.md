@@ -3,26 +3,26 @@ Hello, everyone! My name is Tiana 🌷. I'm a third-year University student who 
 
 ## Research project
 **Female adolescents feel more distress from stressful events than male adolescents do**
-## Introduction 
+## Objectives of my research  
 - The impact of stress on non-specific psychological distress, a construct involving cognitive, emotional, and behavioral symptoms common across various mental disorders, varies by demographic factors like sex and ethnic groups. While non-specific psychological distress is commonly measured using validated tools such as the K6 and K10 scales (Kessler et al., 2002).
 - Yet, prior studies have primarily focused on adults or populations in specific geographic locations (Matud et al., 2000).
   
 - Therefore, this research brings out the **Research Question**: Do stressful life events in the past year influence a male or a female adolescent’s non-specific psychological distress?
 - **Exploratory Question**: Do stressful life events in the past year influence an Asian or a non-Asian adolescent’s non-specific psychological distress?
 
-## Methods
+## Approach    
 **Participants**: 
 - This study analyzed data from **732** adolescents who participated in the Research on Adaptive Interests, Skills, and Environments (RAISE) study, a longitudinal research project conducted in the U.S. from 2014 to 2019. The data for this study exclusively comes from **Wave 2** (2016–2017), during which surveys were administered online to nearly all participants (Hoyle, 2024).
 
 **Measures**:  
-- **Psychological Distress (_PSYDIST2_)**: Psychological distress was assessed using a reliable six-item scale designed to measure the severity of common emotional and cognitive symptoms, including nervousness, hopelessness, restlessness, and feelings of worthlessness. Participants were asked to rate how often they experienced these feelings over the past year. Responses were averaged to create a composite score, with higher scores reflecting greater distress. This scale showed strong reliability with a Cronbach’s alpha of 0.85.  
+- **Psychological Distress (_PSYDIST2_)**: Psychological distress was assessed using a six-item scale designed to measure the severity of common emotional and cognitive symptoms, including nervousness, hopelessness, restlessness, and feelings of worthlessness. Participants were asked to rate how often they experienced these feelings over the past year. Responses were averaged to create a composite score, with higher scores reflecting greater distress. 
 - **Stressful Life Events (_SLET2_)**: Stress was assessed using a checklist of 13 life events (e.g., "In the past year, did you experience a breakup of a romantic relationship you were having?"). Each event was coded as "1" if experienced in the past year and "0" otherwise. The total number of events was summed for each participant to indicate their overall stress level.  
 - **Demographics**:  
 _Gender_: Participants identified as either male or female.  
 _Ethnic group_: Participants were grouped into two categories: Asian or Non-Asian.
 
 **Analysis**:
-A factor analysis was conducted to confirm the construct of the psychological distress scale, I examined whether the six items consistently measured the same idea. The results showed that all six items loaded onto a single factor, with loadings ranging from 0.504 to 0.854, indicating that it is a reliable measure of psychological distress. Each item's contribution was assessed, showing strong alignment with the overall construct.
+A factor analysis was conducted to confirm the idea of the psychological distress scale, since it has more than 3 items in this variable.  
 
 
 ## Results  
